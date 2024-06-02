@@ -1,0 +1,8 @@
+Java Program to Build a Brick breaker game:
+
+We will build the game in VSCode and compile it.
+
+It’s a GUI-based project used with the swing library to organize all the elements that work under the Brick Breaker game.
+
+The data structure used is 2D data structure and handling classes and object creations, we are using Java Swing and Java AWT for creating a user Friendly GUI.
+
